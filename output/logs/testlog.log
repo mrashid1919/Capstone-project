@@ -1,0 +1,593 @@
+2022-08-02 18:48:48,505 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 18:50:31,052 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 18:53:06,509 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 18:55:14,240 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 18:58:23,085 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 18:58:33,269 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 18:58:33,623 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-02 18:58:34,175 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-02 18:58:35,247 - logger_File -INFO - Email and password were entered successfully
+2022-08-02 18:58:38,070 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-02 18:58:38,124 - logger_File -INFO - My Account
+2022-08-02 18:58:41,373 - logger_File -INFO - The Affiliate Account link was clicked successfully
+2022-08-02 18:58:41,591 - logger_File -INFO - The Affiliate form was filled Successfully
+2022-08-02 18:58:43,683 - logger_File -INFO - The Cheque Payee Field was filled successfully
+2022-08-02 18:58:43,745 - logger_File -INFO - We have Successfully clicked on the Checkbox
+2022-08-02 18:58:46,283 - logger_File -INFO - Continue Button was Clicked successfully
+2022-08-02 18:58:46,335 - logger_File -INFO - SUCCESS: YOUR ACCOUNT HAS BEEN SUCCESSFULLY UPDATED.
+2022-08-02 18:58:49,770 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-08-02 19:04:29,041 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-02 19:04:37,019 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:04:37,203 - logger_File -INFO - Desktop Button was click successfully
+2022-08-02 19:04:38,995 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-02 19:04:39,165 - logger_File -INFO -  Is present
+2022-08-02 19:04:39,191 - logger_File -INFO - Desktops Is present
+2022-08-02 19:04:39,294 - logger_File -INFO - Apple Cinema 30" Is present
+2022-08-02 19:04:39,336 - logger_File -INFO - Canon EOS 5D Camera Is present
+2022-08-02 19:04:39,367 - logger_File -INFO - HP LP3065 Is present
+2022-08-02 19:04:39,392 - logger_File -INFO - HTC Touch HD Is present
+2022-08-02 19:04:39,426 - logger_File -INFO - iPhone Is present
+2022-08-02 19:04:39,448 - logger_File -INFO - iPod Classic Is present
+2022-08-02 19:04:39,467 - logger_File -INFO - MacBook Is present
+2022-08-02 19:04:39,491 - logger_File -INFO - MacBook Air Is present
+2022-08-02 19:04:39,518 - logger_File -INFO - Palm Treo Pro Is present
+2022-08-02 19:04:39,541 - logger_File -INFO - Product 8 Is present
+2022-08-02 19:04:39,567 - logger_File -INFO - Samsung SyncMaster 941BW Is present
+2022-08-02 19:04:39,589 - logger_File -INFO - Sony VAIO Is present
+2022-08-02 19:04:41,665 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-02 19:06:23,795 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-02 19:06:33,145 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:06:33,413 - logger_File -INFO - User clicked on Currency Successfully
+2022-08-02 19:06:34,044 - logger_File -INFO - User seleced his/her desired currency(Euro) successfully
+2022-08-02 19:06:34,093 - logger_File -INFO - User successfully retrieved: € From UI
+2022-08-02 19:06:34,516 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-08-02 19:06:34,583 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-08-02 19:06:41,000 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:06:41,412 - logger_File -INFO - Shopping Cart button was clicked by User
+2022-08-02 19:06:41,452 - logger_File -INFO - Your shopping cart is empty!
+2022-08-02 19:06:41,680 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-02 19:07:37,156 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-02 19:07:49,781 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:07:50,403 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-02 19:07:51,143 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-02 19:07:55,343 - logger_File -INFO - MacBook item was Clicked by User
+2022-08-02 19:07:55,502 - logger_File -INFO - User Clicked on add to Cart Button
+2022-08-02 19:07:55,717 - logger_File -INFO - Success: You have added MacBook to your shopping cart!
+×
+2022-08-02 19:07:55,749 - logger_File -INFO - User was able to see: 1 item(s) - $602.0 On UI
+2022-08-02 19:07:55,926 - logger_File -INFO - User Clicked on add to Cart Button
+2022-08-02 19:07:58,047 - logger_File -INFO - Red X button was clicked, and Item from our Cart was removed
+2022-08-02 19:07:58,087 - logger_File -INFO - User successfully removed Item from Cart, now it shows: 0 item(s) - $0.00
+2022-08-02 19:07:58,509 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-02 19:07:58,577 - logger_File -INFO - Scenario Product Comparison started
+2022-08-02 19:08:03,183 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:08:03,333 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-02 19:08:03,966 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-02 19:08:04,173 - logger_File -INFO - User clicked on Compare button on MacBook
+2022-08-02 19:08:06,339 - logger_File -INFO - User clicked on Compare button on MacBook Air
+2022-08-02 19:08:06,421 - logger_File -INFO - Success: You have added MacBook Air to your product comparison!
+×
+2022-08-02 19:08:06,760 - logger_File -INFO - Product Comparison Link was Clicked
+2022-08-02 19:08:06,791 - logger_File -INFO - We are able to see every Comparison Chart
+2022-08-02 19:08:07,581 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-08-02 19:08:07,658 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-02 19:08:11,589 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:08:11,760 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-02 19:08:12,394 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-02 19:08:12,535 - logger_File -INFO - Sony VAIO Laptop was added to Wish List using the Heart Icon on UI
+2022-08-02 19:08:12,701 - logger_File -INFO - You must login or create an account to save Sony VAIO to your wish list!
+×
+2022-08-02 19:08:13,500 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-02 19:08:13,565 - logger_File -INFO - Scenario Validate the price of MacBook Pro is two thousand dollars started
+2022-08-02 19:08:16,788 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:08:16,928 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-02 19:08:17,523 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-02 19:08:19,623 - logger_File -INFO - MacBook Pro item was Clicked By User
+2022-08-02 19:08:19,647 - logger_File -INFO - MacBook Pro's Price: $2,000.00 Was retrieved successfully from TekSchool Retail WebSite
+2022-08-02 19:08:19,822 - logger_File -INFO - Scenario Validate the price of MacBook Pro is two thousand dollars PASSED
+2022-08-02 19:10:12,470 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-02 19:10:20,165 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:10:23,629 - logger_File -INFO - Desktop Button was click successfully
+2022-08-02 19:10:25,650 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-02 19:10:25,780 - logger_File -INFO -  Is present
+2022-08-02 19:10:25,808 - logger_File -INFO - Desktops Is present
+2022-08-02 19:10:25,881 - logger_File -INFO - Apple Cinema 30" Is present
+2022-08-02 19:10:25,921 - logger_File -INFO - Canon EOS 5D Camera Is present
+2022-08-02 19:10:25,944 - logger_File -INFO - HP LP3065 Is present
+2022-08-02 19:10:25,973 - logger_File -INFO - HTC Touch HD Is present
+2022-08-02 19:10:26,002 - logger_File -INFO - iPhone Is present
+2022-08-02 19:10:26,028 - logger_File -INFO - iPod Classic Is present
+2022-08-02 19:10:26,071 - logger_File -INFO - MacBook Is present
+2022-08-02 19:10:26,115 - logger_File -INFO - MacBook Air Is present
+2022-08-02 19:10:26,153 - logger_File -INFO - Palm Treo Pro Is present
+2022-08-02 19:10:26,170 - logger_File -INFO - Product 8 Is present
+2022-08-02 19:10:26,198 - logger_File -INFO - Samsung SyncMaster 941BW Is present
+2022-08-02 19:10:26,219 - logger_File -INFO - Sony VAIO Is present
+2022-08-02 19:10:27,892 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-02 19:10:27,998 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart started
+2022-08-02 19:10:35,248 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:10:35,405 - logger_File -INFO - Desktop Button was click successfully
+2022-08-02 19:10:37,232 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-02 19:10:37,381 - logger_File -INFO - Add to Cart Button on HP laptop was clicked Successfully
+2022-08-02 19:10:41,703 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-02 19:10:44,856 - logger_File -INFO - We have successfully clicked on Add to Cart Button
+2022-08-02 19:10:44,933 - logger_File -INFO - Success: You have added HP LP3065 to your shopping cart!
+×
+2022-08-02 19:10:45,994 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart PASSED
+2022-08-02 19:10:46,072 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-02 19:10:50,572 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:10:50,728 - logger_File -INFO - Desktop Button was click successfully
+2022-08-02 19:10:52,514 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-02 19:10:52,658 - logger_File -INFO - User clicked on ADD TO CART option on Canon EOS5D item successfully
+2022-08-02 19:10:55,333 - logger_File -INFO - Color red was selected from dropdown list successfully
+2022-08-02 19:10:57,143 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-02 19:10:58,266 - logger_File -INFO - We have successfully clicked on Add to Cart Button
+2022-08-02 19:10:58,324 - logger_File -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-08-02 19:10:59,204 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-02 19:10:59,298 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-02 19:11:02,875 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 19:11:03,039 - logger_File -INFO - Desktop Button was click successfully
+2022-08-02 19:11:04,811 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-02 19:11:06,996 - logger_File -INFO - User clicked on Canon EOS5D item successfully
+2022-08-02 19:11:07,489 - logger_File -INFO - User clicked on write a review link successfully
+2022-08-02 19:11:08,061 - logger_File -INFO - the Review form was filled successfully
+2022-08-02 19:11:10,208 - logger_File -INFO - Desired Rating was clicked successfully
+2022-08-02 19:11:12,413 - logger_File -INFO - Continue button was clicked
+2022-08-02 19:11:12,487 - logger_File -INFO - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-08-02 19:11:13,320 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-02 23:56:59,204 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-02 23:57:09,893 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 23:57:10,204 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-02 23:57:10,703 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-02 23:57:11,159 - logger_File -INFO - Email and password were entered successfully
+2022-08-02 23:57:16,166 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-02 23:57:16,215 - logger_File -INFO - My Account
+2022-08-02 23:57:40,738 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-02 23:57:48,930 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 23:57:49,259 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-02 23:57:49,700 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-02 23:57:50,096 - logger_File -INFO - Email and password were entered successfully
+2022-08-02 23:57:52,580 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-02 23:57:52,611 - logger_File -INFO - My Account
+2022-08-02 23:57:55,478 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-02 23:57:55,526 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-02 23:57:55,847 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-02 23:57:58,271 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-02 23:57:58,311 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-02 23:57:58,503 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-02 23:57:58,580 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-02 23:58:05,751 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-02 23:58:06,056 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-02 23:58:06,831 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-02 23:58:07,547 - logger_File -INFO - Email and password were entered successfully
+2022-08-02 23:58:12,454 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-02 23:58:12,493 - logger_File -INFO - My Account
+2022-08-02 23:58:16,006 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-02 23:58:16,795 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-02 23:58:17,244 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-02 23:58:17,286 - logger_File -INFO - Success: Your account has been successfully updated.
+2022-08-02 23:58:17,632 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-08-03 00:01:28,065 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:01:38,537 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:01:43,864 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:01:45,605 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:01:46,215 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:01:48,898 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:01:48,932 - logger_File -INFO - My Account
+2022-08-03 00:02:22,883 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 00:02:23,064 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:02:36,378 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:02:36,741 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:02:37,227 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:02:37,853 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:02:40,404 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:02:40,438 - logger_File -INFO - My Account
+2022-08-03 00:02:43,389 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:02:43,456 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:02:43,881 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:02:46,298 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:02:46,372 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:02:46,644 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:02:46,708 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:02:54,822 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:02:55,481 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:02:56,378 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:02:56,979 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:02:59,523 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:02:59,554 - logger_File -INFO - My Account
+2022-08-03 00:03:02,970 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:03:03,729 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:03:04,098 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:03:04,135 - logger_File -INFO - Success: Your account has been successfully updated.
+2022-08-03 00:03:04,298 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-08-03 00:06:21,756 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:06:29,420 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:06:29,701 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:06:30,153 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:06:30,805 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:06:33,540 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:06:33,575 - logger_File -INFO - My Account
+2022-08-03 00:07:08,473 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 00:07:08,573 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:07:14,986 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:07:15,293 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:07:15,666 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:07:16,943 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:07:19,511 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:07:19,538 - logger_File -INFO - My Account
+2022-08-03 00:07:22,409 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:07:22,448 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:07:22,794 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:07:25,180 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:07:25,214 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:07:25,470 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:07:25,549 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:07:33,535 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:07:35,108 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:07:35,623 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:07:36,012 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:07:38,509 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:07:38,541 - logger_File -INFO - My Account
+2022-08-03 00:07:42,045 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:07:42,815 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:07:43,714 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:09:00,219 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-03 00:09:07,834 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:09:13,551 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:09:15,519 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:09:15,671 - logger_File -INFO -  Is present
+2022-08-03 00:09:15,698 - logger_File -INFO - Desktops Is present
+2022-08-03 00:09:15,731 - logger_File -INFO - Apple Cinema 30" Is present
+2022-08-03 00:09:15,802 - logger_File -INFO - Canon EOS 5D Camera Is present
+2022-08-03 00:09:15,829 - logger_File -INFO - HP LP3065 Is present
+2022-08-03 00:09:15,856 - logger_File -INFO - HTC Touch HD Is present
+2022-08-03 00:09:15,878 - logger_File -INFO - iPhone Is present
+2022-08-03 00:09:15,897 - logger_File -INFO - iPod Classic Is present
+2022-08-03 00:09:15,917 - logger_File -INFO - MacBook Is present
+2022-08-03 00:09:15,950 - logger_File -INFO - MacBook Air Is present
+2022-08-03 00:09:15,979 - logger_File -INFO - Palm Treo Pro Is present
+2022-08-03 00:09:16,003 - logger_File -INFO - Product 8 Is present
+2022-08-03 00:09:16,039 - logger_File -INFO - Samsung SyncMaster 941BW Is present
+2022-08-03 00:09:16,061 - logger_File -INFO - Sony VAIO Is present
+2022-08-03 00:09:18,247 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-03 00:09:18,293 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart started
+2022-08-03 00:09:24,299 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:09:24,457 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:09:26,232 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:09:26,373 - logger_File -INFO - Add to Cart Button on HP laptop was clicked Successfully
+2022-08-03 00:09:31,051 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-03 00:09:33,174 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart FAILED
+2022-08-03 00:09:33,267 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-03 00:09:36,662 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:09:36,822 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:09:38,576 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:09:38,709 - logger_File -INFO - User clicked on ADD TO CART option on Canon EOS5D item successfully
+2022-08-03 00:09:41,445 - logger_File -INFO - Color red was selected from dropdown list successfully
+2022-08-03 00:09:42,885 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-03 00:09:44,040 - logger_File -INFO - We have successfully clicked on Add to Cart Button
+2022-08-03 00:09:44,118 - logger_File -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-08-03 00:09:45,297 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-03 00:09:45,402 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-03 00:09:49,087 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:09:49,232 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:09:50,995 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:09:53,222 - logger_File -INFO - User clicked on Canon EOS5D item successfully
+2022-08-03 00:09:53,727 - logger_File -INFO - User clicked on write a review link successfully
+2022-08-03 00:09:54,173 - logger_File -INFO - the Review form was filled successfully
+2022-08-03 00:09:56,271 - logger_File -INFO - Desired Rating was clicked successfully
+2022-08-03 00:09:58,476 - logger_File -INFO - Continue button was clicked
+2022-08-03 00:09:58,620 - logger_File -INFO - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-08-03 00:09:59,315 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-03 00:11:33,483 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-08-03 00:11:48,811 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:11:48,981 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:11:50,750 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:11:50,905 - logger_File -INFO -  Is present
+2022-08-03 00:11:50,932 - logger_File -INFO - Desktops Is present
+2022-08-03 00:11:51,001 - logger_File -INFO - Apple Cinema 30" Is present
+2022-08-03 00:11:51,047 - logger_File -INFO - Canon EOS 5D Camera Is present
+2022-08-03 00:11:51,076 - logger_File -INFO - HP LP3065 Is present
+2022-08-03 00:11:51,094 - logger_File -INFO - HTC Touch HD Is present
+2022-08-03 00:11:51,125 - logger_File -INFO - iPhone Is present
+2022-08-03 00:11:51,145 - logger_File -INFO - iPod Classic Is present
+2022-08-03 00:11:51,163 - logger_File -INFO - MacBook Is present
+2022-08-03 00:11:51,208 - logger_File -INFO - MacBook Air Is present
+2022-08-03 00:11:51,279 - logger_File -INFO - Palm Treo Pro Is present
+2022-08-03 00:11:51,299 - logger_File -INFO - Product 8 Is present
+2022-08-03 00:11:51,322 - logger_File -INFO - Samsung SyncMaster 941BW Is present
+2022-08-03 00:11:51,342 - logger_File -INFO - Sony VAIO Is present
+2022-08-03 00:11:52,135 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-08-03 00:11:52,184 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart started
+2022-08-03 00:11:56,316 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:11:56,470 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:11:58,538 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:11:58,688 - logger_File -INFO - Add to Cart Button on HP laptop was clicked Successfully
+2022-08-03 00:12:03,124 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-03 00:12:06,255 - logger_File -INFO - We have successfully clicked on Add to Cart Button
+2022-08-03 00:12:06,341 - logger_File -INFO - Success: You have added HP LP3065 to your shopping cart!
+×
+2022-08-03 00:12:07,349 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart PASSED
+2022-08-03 00:12:07,426 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-08-03 00:12:14,018 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:12:14,174 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:12:15,951 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:12:16,099 - logger_File -INFO - User clicked on ADD TO CART option on Canon EOS5D item successfully
+2022-08-03 00:12:18,920 - logger_File -INFO - Color red was selected from dropdown list successfully
+2022-08-03 00:12:20,425 - logger_File -INFO - We have entered our desired Quantity successfully
+2022-08-03 00:12:21,565 - logger_File -INFO - We have successfully clicked on Add to Cart Button
+2022-08-03 00:12:21,624 - logger_File -INFO - Success: You have added Canon EOS 5D Camera to your shopping cart!
+×
+2022-08-03 00:12:22,452 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-08-03 00:12:22,553 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab started
+2022-08-03 00:12:26,557 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:12:26,710 - logger_File -INFO - Desktop Button was click successfully
+2022-08-03 00:12:28,556 - logger_File -INFO - We have successfully clicked the: Show All Desktop Tab
+2022-08-03 00:12:30,851 - logger_File -INFO - User clicked on Canon EOS5D item successfully
+2022-08-03 00:12:31,742 - logger_File -INFO - User clicked on write a review link successfully
+2022-08-03 00:12:32,192 - logger_File -INFO - the Review form was filled successfully
+2022-08-03 00:12:34,302 - logger_File -INFO - Desired Rating was clicked successfully
+2022-08-03 00:12:36,569 - logger_File -INFO - Continue button was clicked
+2022-08-03 00:12:36,690 - logger_File -INFO - Thank you for your review. It has been submitted to the webmaster for approval.
+2022-08-03 00:12:37,554 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-08-03 00:13:14,777 - logger_File -INFO - Scenario User verify currency values change started
+2022-08-03 00:13:24,749 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:13:25,024 - logger_File -INFO - User clicked on Currency Successfully
+2022-08-03 00:13:26,151 - logger_File -INFO - User seleced his/her desired currency(Euro) successfully
+2022-08-03 00:13:26,197 - logger_File -INFO - User successfully retrieved: € From UI
+2022-08-03 00:13:26,592 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-08-03 00:13:26,652 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-08-03 00:13:32,009 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:13:32,302 - logger_File -INFO - Shopping Cart button was clicked by User
+2022-08-03 00:13:32,331 - logger_File -INFO - Your shopping cart is empty!
+2022-08-03 00:13:32,557 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-08-03 00:14:29,745 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-08-03 00:14:38,376 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:14:38,765 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-03 00:14:39,588 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-03 00:14:43,979 - logger_File -INFO - MacBook item was Clicked by User
+2022-08-03 00:14:44,082 - logger_File -INFO - User Clicked on add to Cart Button
+2022-08-03 00:14:44,267 - logger_File -INFO - Success: You have added MacBook to your shopping cart!
+×
+2022-08-03 00:14:44,299 - logger_File -INFO - User was able to see: 1 item(s) - $602.0 On UI
+2022-08-03 00:14:44,372 - logger_File -INFO - User Clicked on add to Cart Button
+2022-08-03 00:14:46,464 - logger_File -INFO - Red X button was clicked, and Item from our Cart was removed
+2022-08-03 00:14:46,503 - logger_File -INFO - User successfully removed Item from Cart, now it shows: 0 item(s) - $0.00
+2022-08-03 00:14:46,765 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-08-03 00:14:46,840 - logger_File -INFO - Scenario Product Comparison started
+2022-08-03 00:14:50,864 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:14:51,020 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-03 00:14:51,648 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-03 00:14:51,784 - logger_File -INFO - User clicked on Compare button on MacBook
+2022-08-03 00:14:53,866 - logger_File -INFO - User clicked on Compare button on MacBook Air
+2022-08-03 00:14:53,916 - logger_File -INFO - Success: You have added MacBook Air to your product comparison!
+×
+2022-08-03 00:14:54,226 - logger_File -INFO - Product Comparison Link was Clicked
+2022-08-03 00:14:54,262 - logger_File -INFO - We are able to see every Comparison Chart
+2022-08-03 00:14:55,124 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-08-03 00:14:55,194 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-08-03 00:14:58,876 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:14:59,031 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-03 00:14:59,666 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-03 00:14:59,797 - logger_File -INFO - Sony VAIO Laptop was added to Wish List using the Heart Icon on UI
+2022-08-03 00:14:59,985 - logger_File -INFO - You must login or create an account to save Sony VAIO to your wish list!
+×
+2022-08-03 00:15:00,709 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-08-03 00:15:00,771 - logger_File -INFO - Scenario Validate the price of MacBook Pro is two thousand dollars started
+2022-08-03 00:15:04,131 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:15:04,272 - logger_File -INFO - Laptop & NoteBook tab was clicked by User
+2022-08-03 00:15:04,912 - logger_File -INFO - Show all Laptop & NoteBook Option was selected by User from Laptop & Notebook tab
+2022-08-03 00:15:07,324 - logger_File -INFO - MacBook Pro item was Clicked By User
+2022-08-03 00:15:07,646 - logger_File -INFO - MacBook Pro's Price: $2,000.00 Was retrieved successfully from TekSchool Retail WebSite
+2022-08-03 00:15:07,867 - logger_File -INFO - Scenario Validate the price of MacBook Pro is two thousand dollars PASSED
+2022-08-03 00:15:50,810 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:15:58,599 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:15:58,929 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:15:59,413 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:16:00,026 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:16:04,610 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:16:04,661 - logger_File -INFO - My Account
+2022-08-03 00:16:38,993 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 00:16:39,121 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:16:49,454 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:16:49,997 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:16:50,448 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:16:50,845 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:16:53,367 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:16:53,401 - logger_File -INFO - My Account
+2022-08-03 00:16:56,217 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:16:56,260 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:16:56,628 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:16:59,296 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:16:59,341 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:16:59,529 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:16:59,591 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:17:08,150 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:17:08,499 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:17:09,025 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:17:09,660 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:17:12,951 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:17:12,997 - logger_File -INFO - My Account
+2022-08-03 00:17:16,450 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:17:17,109 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:17:17,377 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:17:48,995 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-03 00:27:28,993 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:27:40,103 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:27:40,492 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:27:43,763 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:27:44,528 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:27:47,153 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:27:47,194 - logger_File -INFO - My Account
+2022-08-03 00:27:50,227 - logger_File -INFO - The Affiliate Account link was clicked successfully
+2022-08-03 00:27:50,441 - logger_File -INFO - The Affiliate form was filled Successfully
+2022-08-03 00:27:52,540 - logger_File -INFO - The Cheque Payee Field was filled successfully
+2022-08-03 00:27:52,618 - logger_File -INFO - We have Successfully clicked on the Checkbox
+2022-08-03 00:27:55,105 - logger_File -INFO - Continue Button was Clicked successfully
+2022-08-03 00:27:55,137 - logger_File -INFO - SUCCESS: YOUR ACCOUNT HAS BEEN SUCCESSFULLY UPDATED.
+2022-08-03 00:27:58,428 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-08-03 00:27:58,487 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:28:06,814 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:28:07,150 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:28:07,787 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:28:09,177 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:28:11,761 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:28:11,795 - logger_File -INFO - My Account
+2022-08-03 00:28:14,872 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:28:14,919 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:28:15,286 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:28:17,955 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:28:17,991 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:28:18,273 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:28:18,333 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:28:25,657 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:28:25,925 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:28:26,728 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:28:27,209 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:28:29,740 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:28:29,768 - logger_File -INFO - My Account
+2022-08-03 00:28:33,149 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:28:33,757 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:28:34,055 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:29:05,611 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-03 00:30:09,062 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:30:19,415 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:30:19,677 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:30:20,171 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:30:30,916 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:30:34,158 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:30:34,219 - logger_File -INFO - My Account
+2022-08-03 00:31:08,240 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 00:31:08,326 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:31:16,879 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:31:17,185 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:31:20,254 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:31:20,748 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:31:23,272 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:31:23,303 - logger_File -INFO - My Account
+2022-08-03 00:31:26,186 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:31:26,250 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:31:26,647 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:31:29,951 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:31:29,998 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:31:30,279 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:31:30,366 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:31:37,871 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:31:38,448 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:31:38,933 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:31:39,598 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:31:42,142 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:31:42,172 - logger_File -INFO - My Account
+2022-08-03 00:31:45,718 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:31:46,336 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:31:46,625 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:32:17,607 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-08-03 00:34:42,624 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:34:51,289 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:34:51,607 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:34:52,032 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:34:55,580 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:34:58,551 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:34:58,610 - logger_File -INFO - My Account
+2022-08-03 00:35:33,038 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-08-03 00:35:33,169 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:35:41,857 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:35:42,193 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:35:42,630 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:35:44,334 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:35:46,945 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:35:46,987 - logger_File -INFO - My Account
+2022-08-03 00:35:49,927 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 00:35:49,972 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 00:35:50,439 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 00:35:52,808 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 00:35:52,837 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 00:35:53,043 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 00:35:53,120 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:36:00,302 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:36:00,603 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:36:01,052 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:36:02,791 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:36:05,300 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:36:05,335 - logger_File -INFO - My Account
+2022-08-03 00:36:08,924 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 00:36:09,594 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 00:36:10,015 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 00:36:10,057 - logger_File -INFO - Success: Your account has been successfully updated.
+2022-08-03 00:36:10,327 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-08-03 00:37:47,424 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:37:55,416 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:37:55,732 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:37:56,211 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:37:56,714 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:37:59,221 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:38:28,208 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:38:35,008 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:38:35,305 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:38:35,807 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:38:36,244 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:38:38,710 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:38:48,444 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:38:53,742 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:38:53,997 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:38:54,353 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:38:55,339 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:38:57,754 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:40:06,323 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 00:40:13,320 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:40:13,602 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:40:14,034 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:40:15,718 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:40:18,208 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:40:28,512 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 00:40:35,970 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:40:36,305 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:40:36,782 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:40:37,208 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:40:39,651 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 00:40:48,251 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 00:40:52,791 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 00:40:53,049 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 00:40:53,478 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 00:40:53,916 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 00:40:56,309 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 18:25:42,611 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-08-03 18:25:51,585 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 18:25:51,871 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 18:25:52,315 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 18:25:52,732 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 18:25:55,360 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 18:25:55,401 - logger_File -INFO - My Account
+2022-08-03 18:25:58,303 - logger_File -INFO - The Affiliate Account link was clicked successfully
+2022-08-03 18:25:58,534 - logger_File -INFO - The Affiliate form was filled Successfully
+2022-08-03 18:26:00,627 - logger_File -INFO - The Cheque Payee Field was filled successfully
+2022-08-03 18:26:00,698 - logger_File -INFO - We have Successfully clicked on the Checkbox
+2022-08-03 18:26:03,327 - logger_File -INFO - Continue Button was Clicked successfully
+2022-08-03 18:26:03,378 - logger_File -INFO - SUCCESS: YOUR ACCOUNT HAS BEEN SUCCESSFULLY UPDATED.
+2022-08-03 18:26:06,701 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-08-03 18:26:06,780 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-08-03 18:26:12,049 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 18:26:12,308 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 18:26:12,737 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 18:26:15,503 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 18:26:18,029 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 18:26:18,067 - logger_File -INFO - My Account
+2022-08-03 18:26:20,905 - logger_File -INFO - Edit your affiliate information link was clicked successfully
+2022-08-03 18:26:20,951 - logger_File -INFO - The Bank Transfer Radio Button was clicked Successfully
+2022-08-03 18:26:21,272 - logger_File -INFO - User filled the Bank information form successfully
+2022-08-03 18:26:23,695 - logger_File -INFO - Continue Button on Edit Affiliate was clicked Successfully
+2022-08-03 18:26:23,726 - logger_File -INFO - Our Affiliate Account has been edited Successfully
+2022-08-03 18:26:23,892 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-08-03 18:26:23,967 - logger_File -INFO - Scenario Edit your account Information started
+2022-08-03 18:26:27,795 - logger_File -INFO - Since we can see this Text: TEST ENVIRONMENT It Confirms that indeed We are in TekSchool Retail Website
+2022-08-03 18:26:28,081 - logger_File -INFO - MyAccount button was clicked sucessfully
+2022-08-03 18:26:28,515 - logger_File -INFO - Login link was clicked sucessfully
+2022-08-03 18:26:28,823 - logger_File -INFO - Email and password were entered successfully
+2022-08-03 18:26:31,342 - logger_File -INFO - Login Button was clicked sucessfully
+2022-08-03 18:26:31,371 - logger_File -INFO - My Account
+2022-08-03 18:26:34,549 - logger_File -INFO - Edit your Account Information link was clicked successfully
+2022-08-03 18:26:35,187 - logger_File -INFO - We have Successfully edited our Acount's information
+2022-08-03 18:26:35,561 - logger_File -INFO - The Continue Button on Edit your Account page was clicked successfully
+2022-08-03 18:26:35,601 - logger_File -INFO - Success: Your account has been successfully updated.
+2022-08-03 18:26:35,749 - logger_File -INFO - Scenario Edit your account Information PASSED
